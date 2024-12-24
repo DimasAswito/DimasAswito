@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/jNYpXdai6vkAAAAC/just-a-chill-guy-chillguy.gif"  />
+<img align="left" height="150" src="https://media1.tenor.com/m/jNYpXdai6vkAAAAC/just-a-chill-guy-chillguy.gif"  />
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<h3 align="center">Let's Connect :</35>
+<h3 align="center">Let's Connect :</h3>
 
 ###
 
