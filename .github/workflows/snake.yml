@@ -24,6 +24,9 @@ jobs:
           github_user_name: DimasAswito
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: List generated files
+        run: ls -l dist
+
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
