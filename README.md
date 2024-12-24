@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h5 align="left">My Skill at :</h5>
+<h3 align="left">My Skill at :</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<h5 align="center">Let's Connect :</h5>
+<h3 align="center">Let's Connect :</35>
 
 ###
 
