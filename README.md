@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/DimasAswito/DimasAswito/output/github-contribution-grid-snake-dark.svg" />
+<img alt="Snake animation" src="https://raw.githubusercontent.com/DimasAswito/DimasAswito/output/snake.svg" />
 
 ###
