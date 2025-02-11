@@ -56,4 +56,6 @@
 
 <img src="https://raw.githubusercontent.com/DimasAswito/DimasAswito/output/snake.svg" alt="Snake animation" />
 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DimasAswito&color=red"></img></p>
+
 ###
