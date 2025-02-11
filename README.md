@@ -6,21 +6,13 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimasAswito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimasAswito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DimasAswito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimasAswito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">My Tech Stack :</h3>
-
-###
-
-<img align="left" height="150" src="https://media1.tenor.com/m/jNYpXdai6vkAAAAC/just-a-chill-guy-chillguy.gif"  />
-
-###
+# 🛠 Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
@@ -40,15 +32,9 @@
 
 ###
 
-<br clear="both">
+# 🤝 Let's Connect
 
-<h3 align="center">Let's Connect :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/@dimasaswito5218" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="35" alt="youtube logo"  />
   </a>
@@ -67,8 +53,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/DimasAswito/DimasAswito/output/snake.svg" alt="Snake animation" />
 
