@@ -4,6 +4,10 @@
 <h3 align="center">An Web Developer & Junior Mobile Developer From Java, Indonesia</h3>
 <h4 align="center"><a href="https://linktr.ee/DimasAswito">My Linktree</a></h3>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&quote=just%20a%20human%20who%20wants%20to%20code%20the%20world&border=true&type=horizontal" alt="Readme Quotes" />
+</p>
+
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DimasAswito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" style="display: inline-block;" alt="stats graph"/>
@@ -15,6 +19,7 @@
 
 
 ###
+
 
 # 🛠 Tech Stack
 
