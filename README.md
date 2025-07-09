@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Dimas Aswito</h1>
-<h3 align="center">An Web Developer & Junior Mobile Developer From Java, Indonesia</h3>
+<h3 align="center">An Web and Mobile Developer From East Java, Indonesia</h3>
 <h4 align="center"><a href="https://linktr.ee/DimasAswito">My Linktree</a></h3>
 
 <p align="center">
