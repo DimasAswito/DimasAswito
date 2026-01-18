@@ -12,7 +12,7 @@
 <div align="left">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DimasAswito&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats Card" />
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DimasAswito&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimasAswito&theme=dark&hide_border=false" height="150" style="display: inline-block;" alt="streak graph"/>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimasAswito&theme=dark&hide_border=false" height="150" style="display: inline-block;" alt="streak graph"/> -->
 
 </div>
 
